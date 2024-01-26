@@ -1,7 +1,7 @@
 //basics
-// #include <iostream>  //directive - processed by pre processor(header file)
-// using namespace std; //std is namespace
-// int main(){   //function basic structure : returntype function_name(){}
+#include <iostream>  //directive - processed by pre processor(header file)
+using namespace std; //std is namespace
+int main(){   //function basic structure : returntype function_name(){}
 // cout<<"Hello I'm Shubranshu Shekhar";
 // return 0; //code ended, won't process next lines
 // }
